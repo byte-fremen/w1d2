@@ -1,0 +1,8 @@
+#!/user/bin/env python3
+my_prediction =true
+
+if  my_prediction is true:
+    print('kenso is right')
+else:
+    print('kenso is wrong')
+
